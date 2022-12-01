@@ -2,8 +2,8 @@
 
 ### Olá eu sou o Olavo de Souto, estudante de Desenvolvimento Full Stack da Blue EdTech <img src="https://user-images.githubusercontent.com/95504029/151560441-2e792d97-fd65-462c-8fd7-70f581de5674.gif" width="100">!
 
-- 🌱 I’m currently learning Typescript
-- 🌱 Estou Estudando atualmente Typescript ...
+- 🌱 I’m currently learning TypeScript
+- 🌱 Estou Estudando atualmente TypeScript ...
 
 <!--
 **highacc/highacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  </div>
   
   ##
